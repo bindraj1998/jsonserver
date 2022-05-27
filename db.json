@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "value": "todo1",
+      "iscomp": true
+    },
+    {
+      "id": 2,
+      "value": "todo2",
+      "iscomp": false
+    },
+    {
+      "id": 3,
+      "value": "todo3",
+      "iscomp": false
+    },
+    {
+      "value": "asd",
+      "iscomp": false,
+      "id": 4
+    }
+  ]
+}
